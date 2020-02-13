@@ -8,3 +8,9 @@ This project uses [kind] to easily set up a cloud native smart home
 
 [kind]: https://github.com/kubernetes-sigs/kind
 
+## Prerequisites
+
+- [Docker](https://www.docker.com/)
+- [Helm](https://helm.sh/)
+- [Kind](https://github.com/kubernetes-sigs/kind)
+
